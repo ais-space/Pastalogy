@@ -28,11 +28,11 @@ Pastalogy presents a new axiomatic theory of the universe developed from a singl
 If you reference this work, please cite it as:
 
 > Sitnikov, V. (2025). *Pastalogy: An Axiomatic Theory of the Universe*.  
-> GitHub repository: [https://github.com/ais-space/Pastalogy](https://github.com/ais-space/Pastalogy)
+> GitHub repository: [https://github.com/ais-space/Pastalogy](https://github.com/ais-space/Pastalogy)  
+> DOI: [INSERT DOI HERE](#)
 
 ---
 
 ## Purpose of the Repository
 
-This repository serves as a **preprint archive** for the Pastalogy paper, providing publicly accessible final versions and preserving the priority of authorship. The repository will remain private until the paper is formally published, at which point it may be made public.
-
+This repository serves as a **preprint archive** for the Pastalogy paper, providing publicly accessible final versions and preserving the priority of authorship. The repository is **public** to ensure full access for readers and researchers.
