@@ -29,7 +29,7 @@ If you reference this work, please cite it as:
 
 > Sitnikov, V. (2025). *Pastalogy: An Axiomatic Theory of the Universe*.  
 > GitHub repository: [https://github.com/ais-space/Pastalogy](https://github.com/ais-space/Pastalogy)  
-> DOI: [INSERT DOI HERE](#)
+> DOI: [https://doi.org/10.5281/zenodo.17273440](https://doi.org/10.5281/zenodo.17273440)
 
 ---
 
